@@ -14,7 +14,7 @@ public class PersonalInformation {
         String university = input.nextLine();
 
         System.out.println("Hello," + name + ". You are " + age + " years old and you are" +
-                " studying in "+university);
+                " studying in "+university+".");
 
     }
 }
